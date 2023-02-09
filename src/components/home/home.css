@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+progress::-webkit-progress-value { background: rgb(228, 165, 11); }
