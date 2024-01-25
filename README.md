@@ -1,4 +1,4 @@
-#tp Hash & crypt Dhuilaa Alaeddine "ibc
+#tp Hash & crypt ibc
 1) npm i && npm start
 or
 
